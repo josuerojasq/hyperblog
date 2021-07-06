@@ -9,7 +9,8 @@ body{
 
 #cabecera{
     font-family: Arial, Helvetica, sans-serif;
-    background: #33A;
+    font-size: 20px;
+    background: darkolivegreen;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
@@ -32,7 +33,7 @@ body{
 }
 
 #container h1{
-    font-size: 20px;
+    font-size: 18px;
 }
 
 p{
