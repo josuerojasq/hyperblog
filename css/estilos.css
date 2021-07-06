@@ -3,3 +3,6 @@ body{
     font-family: 'Arial';
     color: darkslategrey;
 }
+ul>li{
+    font-family: 'Courier New', Courier, monospace;
+}
