@@ -3,6 +3,10 @@ body{
     font-family: 'Arial';
     color: darkslategrey;
 }
+p{
+    color: chocolate;
+    font-family: 'Ubuntu';
+}
 ul>li{
-    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
 }
